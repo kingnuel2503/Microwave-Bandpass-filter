@@ -11,7 +11,7 @@ The filter is designed to meet the following frequency and attenuation requireme
 | **Lower Stopband** | 2.318 GHz – 2.592 GHz | Insertion Loss (IL) | > 55 dB |
 | **Upper Stopband** | 5.373 GHz – 7.600 GHz | Insertion Loss (IL) | > 45 dB |
 
-This image contains the circuit schematic, substrate properties, and the resulting frequency response (S-parameters).
+This image contains the circuit schematic, substrate properties, and the resulting frequency response (S-parameters) using the stub technique.
 <img width="1023" height="470" alt="image" src="https://github.com/user-attachments/assets/ad89ea22-f148-40f0-8de1-9140b0d25c13" />
 
 This image displays the physical microstrip geometry and routing of the filter.
