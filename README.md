@@ -17,5 +17,13 @@ This image contains the circuit schematic, substrate properties, and the resulti
 This image displays the physical microstrip geometry and routing of the filter.
 <img width="997" height="279" alt="image" src="https://github.com/user-attachments/assets/118530c5-1920-4895-b8fd-381d884f9586" />
 
+## PCB Layout
+The physical layout was executed in KiCad. Impedance matching was carefully maintained with a 50-ohm main microstrip feedline spine, terminating in multiple grounding via arrays at the stub ends to minimize parasitic inductance at 3.76 GHz.
+Top Board
+<img width="787" height="369" alt="image" src="https://github.com/user-attachments/assets/6f56a4f3-f305-4cf7-ae11-eb5e34407d4f" />
+
+Bottom Board
+<img width="724" height="403" alt="image" src="https://github.com/user-attachments/assets/22315750-2b0e-4ec6-9b0c-2062e70b386b" />
+
 
 
